@@ -10,4 +10,4 @@ Hi! I'm Mufeeda.  This repository documents my cybersecurity learning journey
 - Security Controls
 - Security Ethics
 
- ##             ⏳ Course 2 – In Progress  
+ ##             ⏳ Course 2 – Play it Safe- Manage Security Risks -In Progress  
